@@ -1,0 +1,14 @@
+{
+  "name": "FinKit — Toolkit Keuangan Harian",
+  "short_name": "FinKit",
+  "description": "Konverter mata uang, kalkulator, simulasi cicilan, diskon & PPN, dan split bill.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef4ff",
+  "theme_color": "#1d4ed8",
+  "lang": "id",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
